@@ -1,1 +1,1 @@
-key = uKlVSSE4NJOAlgd0w7VkF73Kv3xXSzS3
+key = 'uKlVSSE4NJOAlgd0w7VkF73Kv3xXSzS3'
