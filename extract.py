@@ -25,7 +25,7 @@ for stock in stocks:
     }
     stock_data.append(dic)
 
-    with open(f"{stock},csv","w",newline='') as outfile:
+    with open(f"{stock}.csv","w",newline='') as outfile:
       writer= csv.DictWriter(outfile, fieldnames=["Date","Closing_Price"])
       writer.writeheader()
       writer.writerows(stock_data)
