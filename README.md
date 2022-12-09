@@ -12,10 +12,10 @@ Please refer to the following section for more information of this project.
 
 # Content
 <ol>
-<li>**extract.py**:<a href="https://github.com/Bingbong0201/Ideal-stock-API/blob/main/extract.py"></a>
+<li>**extract.py**
 In this file you will find the starting code to request information from the API. You will need a "key" (not provided) that can be obtained by creating an account in https://polygon.io/
 This information is then stored and properly labled in a csv file with its respective stock ticker. 
 </li>
-<li>**analysis.py**<a href="https://github.com/Bingbong0201/Ideal-stock-API/blob/main/analysis.py"></a>
+<li>**analysis.py**
 This files retrieves the information stored in the csv file to calculate the weekly standard deviation of each stock (one provided in this example). Additionally, a visualization is provided to better understand the changes of variation of the stock from 2021-03-29 to 2022-05-25
 </li>
